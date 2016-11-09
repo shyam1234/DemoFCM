@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "200414575974",
+    "firebase_url": "https://demogcm-c9670.firebaseio.com",
+    "project_id": "demogcm-c9670",
+    "storage_bucket": "demogcm-c9670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200414575974:android:7f6f2977d0b3845c",
+        "android_client_info": {
+          "package_name": "com.techm.demogcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200414575974-75raiif2cgdeuv1i88vtl7s3cdv63bba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techm.demogcm",
+            "certificate_hash": "ED2491579606015954AFAF234A7BC2AC6CD4BE3E"
+          }
+        },
+        {
+          "client_id": "200414575974-ajm36fbr2614oshe58dipj3gboco129h.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "200414575974-m1si88ur0bplkt6828qt06l39h3ukju2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfG_ZwyjMWCAIs2UFEOcRZmjAth9EIbe8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200414575974-ajm36fbr2614oshe58dipj3gboco129h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

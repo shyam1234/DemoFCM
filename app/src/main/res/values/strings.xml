@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoFCM</string>
+    <string name="msg_subscribed" >msg_subscribed</string>
+    <string name="msg_token_fmt">msg_token_fmt</string>
+</resources>
